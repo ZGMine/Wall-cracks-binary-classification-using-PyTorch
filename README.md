@@ -43,7 +43,6 @@ Les expérimentations ont été réalisées sur la configuration suivante :
 ## Contenu du dépôt
 
 * Le notebook/script Python contenant l'implémentation du modèle, l'entraînement et l'évaluation.
-* Le dataset utilisé pour le fine-tuning (fissures de sol) et le test ('test_off').
 * Le rapport final au format PDF.
 
 ## Setup
